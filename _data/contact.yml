@@ -1,18 +1,34 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+- type: youtube
+  icon: "fab fa-youtube"
+  url: 'https://link.thegamingchief.com/tgc-yt'
 
 - type: twitter
-  icon: "fa-brands fa-x-twitter"
+  icon: "fab fa-twitter"
+
+- type: facebook
+  icon: "fab fa-facebook"
+  url: 'https://link.thegamingchief.com/tgc-fb'
+
+- type: discord
+  icon: "fab fa-discord"
+  url: 'https://link.thegamingchief.com/discord'
+
+- type: patreon
+  icon: "fab fa-patreon"
+  url: 'https://link.thegamingchief.com/patreon'
+
+- type: github
+  icon: "fab fa-github"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
