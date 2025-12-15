@@ -39,7 +39,7 @@ copyright:
   verbose: >-
     除非另有说明，本网站上的博客文章均由作者按照知识共享署名 4.0 国际 (CC BY 4.0) 许可协议进行授权。
 
-meta: <script defer data-domain="thegamingchief.com" src="https://plausible.thegamingchief.com/js/script.js"></script>
+meta: <script async src="https://plausible.thegamingchief.com/js/pa-JNqzz7vuK0uaf0M0hGM6S.js"></script><script>window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};plausible.init()</script>
 
 not_found:
   statment: 抱歉，我们放错了该 URL，或者它指向了不存在的内容。

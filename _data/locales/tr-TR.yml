@@ -40,7 +40,7 @@ copyright:
     Aksi belirtilmediği sürece, bu sitedeki gönderiler Creative Commons Atıf 4.0 Uluslararası (CC BY 4.0) Lisansı altındadır.
     Kısaca sayfa linkini vererek değiştirebilir / paylaşabilirsiniz.
 
-meta: <script defer data-domain="thegamingchief.com" src="https://plausible.thegamingchief.com/js/script.js"></script>
+meta: <script async src="https://plausible.thegamingchief.com/js/pa-JNqzz7vuK0uaf0M0hGM6S.js"></script><script>window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};plausible.init()</script>
 
 not_found:
   statment: Üzgünüz, bu linki yanlış yerleştirdik veya var olmayan bir şeye işaret ediyor.
